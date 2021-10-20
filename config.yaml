@@ -100,8 +100,8 @@ params:
       - image: 5.jpg
         subtitle: R Language
         title: My favorite CS Language
-        url: https://www.r-project.org/
-      - image: 6.jpg
+        url: blogs/risk_return
+      - image: lbs.jpg
         subtitle: London Business School
         title: My School
         url: https://www.london.edu/
