@@ -1,0 +1,118 @@
+baseURL: https://kehu-portfolio.netlify.app/
+languageCode: en-us
+title: Portfolio website for Ke Hu
+theme: forty
+googleAnalytics: ''
+disqusShortname: ''
+params:
+  banner:
+    buttonText: Get Started
+    subtitle: |-
+      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
+      AND RELEASED UNDER THE CREATIVE COMMONS.
+    title: Hi, my name is Ke Hu
+  blog: {}
+  contact:
+    address:
+      - city: London, NW1 6PU
+        country: the United Kingdom
+        street: Dorset Square
+        title: Address
+    buttonClear: Clear
+    buttonSend: Send message
+    email:
+      - email: khu.mfa2022@london.edu
+        title: Email
+    enable: yes
+    phone:
+      - phone: (073) 7512-0052
+        title: Phone
+  custom_css: []
+  custom_js: []
+  description: Your description
+  error404:
+    heading: Page couldn't be found
+    text: Please visit [this page](/)
+  favicon: favicon.ico
+  footer:
+    copyright: London Business School
+    enable: yes
+    quicklinks:
+      - alt: HTML5 UP
+        text: 'Design: '
+        url: https://www.html5up.net
+    social:
+     # - icon: fa-twitter
+      #  label: Twitter
+      #  url: https://www.twitter.com
+     # - icon: fa-facebook
+      #  label: Facebook
+       # url: https://www.facebook.com
+      - icon: fa-instagram
+        label: Instagram
+        url: https://www.instagram.com/kehu0129/
+      - icon: fa-github
+        label: GitHub
+        url: https://github.com/keke0129
+      - icon: fa-linkedin
+        label: LinkedIn
+        url: https://www.linkedin.com/in/kehu0129/
+  image: ''
+  name: Your name
+  navigation:
+    button1:
+      - name: Get Started
+        url: blogs
+    button2:
+      - name: Log In
+        url: '#'
+    links:
+      - name: Home
+        url: '#'
+      - name: Blogs
+        url: blogs
+      - name: Generic Blog
+        url: blogs/ipsum
+      - name: Elements
+        url: elements.html
+    menu: Menu
+    subtitle: By HTML5 Up
+    title: Forty
+  tiles:
+    enable: yes
+    showcase:
+      - image: 1.png
+        subtitle: IBM Acquired Red Hat For $34 Billion
+        title: My Favorite Deal
+        url: https://newsroom.ibm.com/2018-10-28-IBM-To-Acquire-Red-Hat-Completely-Changing-The-Cloud-Landscape-And-Becoming-Worlds-1-Hybrid-Cloud-Provider
+      - image: 2.png
+        subtitle: Snowflake Inc. - a cloud computing-based data warehousing company
+        title: My Favorite Company
+        url: https://edition.cnn.com/2020/09/16/investing/snowflake-ipo/index.html
+      - image: 3.jpg
+        subtitle: Los Angeles
+        title: My Favorite City
+        url: https://www.britannica.com/place/Los-Angeles-California
+      - image: 4.jpg
+        subtitle: Video Games
+        title: My Favorite Hobby
+        url: https://www.esportsguide.com/guide/a-basic-introduction-to-dota-2
+      - image: 5.jpg
+        subtitle: R Language
+        title: My favorite CS Language
+        url: https://www.r-project.org/
+      - image: 6.jpg
+        subtitle: London Business School
+        title: My School
+        url: https://www.london.edu/
+  two:
+    buttonText: Get Started
+    enable: yes
+    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
+      \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
+      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
+      pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
+      Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
+      amet pharetra et feugiat tempus."
+    title: Massa libero
+    url: blogs
