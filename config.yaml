@@ -8,8 +8,7 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
+      I grew up in China, had my undergraduate study in the U.S. and now am in the U.K. Nice to meet you!
     title: Hi, my name is Ke Hu
   blog: {}
   contact:
@@ -69,12 +68,12 @@ params:
     links:
       - name: Home
         url: '#'
-      - name: Blogs
+      - name: Data Projects
         url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+     # - name: Generic Blog
+     #   url: blogs/ipsum
+     # - name: Elements
+      #  url: elements.html
     menu: Menu
     subtitle: By HTML5 Up
     title: Forty
@@ -98,8 +97,8 @@ params:
         title: My Favorite Hobby
         url: https://www.esportsguide.com/guide/a-basic-introduction-to-dota-2
       - image: 5.jpg
-        subtitle: R Language
-        title: My favorite CS Language
+        subtitle: Risk Return of DJIA stocks
+        title: Selected R Language Project
         url: blogs/risk_return
       - image: lbs.jpg
         subtitle: London Business School
@@ -108,11 +107,6 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle: "Here are more of my R projects!"
+    title: My R projects
     url: blogs
